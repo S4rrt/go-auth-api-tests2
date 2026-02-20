@@ -107,3 +107,4 @@ go test ./..
 Nural Musaev
 
 Учебный проект для подготовки к позиции **Intern/Junior Go QA Autotest Engineer**
+http://github.com/S4rrt
